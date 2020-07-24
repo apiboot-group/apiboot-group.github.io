@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/api/components-no-ssr", {data:[{},{statusCode:404,message:"API页面不存在"}],fetch:[],mutations:[]});

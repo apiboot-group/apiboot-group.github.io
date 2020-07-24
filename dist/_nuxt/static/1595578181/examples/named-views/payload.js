@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/examples/named-views", {data:[{},{path:"\u002Fzh\u002Fexamples\u002Fnamed-views",section:"examples",page:{attrs:{title:"命名视图",description:"Nuxt.js的命名视图示例",github:"named-views",livedemo:"https:\u002F\u002Fnamed-views.nuxtjs.org",documentation:"\u002Fguide\u002Frouting#named-views"},body:""},contributors:[{author:"warriorBrian"}]}],fetch:[],mutations:[]});
