@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/examples/seo-html-head", {data:[{},{path:"\u002Fzh\u002Fexamples\u002Fseo-html-head",section:"examples",page:{attrs:{title:"SEO HTML 头部",description:"Nuxt.js 的 SEO HTML 头部示例",github:"meta-info",livedemo:"https:\u002F\u002Fhead-elements.nuxtjs.org",documentation:"\u002Fguide\u002Fviews#html-头部"},body:""},contributors:[]}],fetch:[],mutations:[]});
