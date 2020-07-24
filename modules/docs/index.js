@@ -8,9 +8,9 @@ module.exports = async function (moduleOptions) {
   const runServer = isDev || !isBuild
 
   const options = {
-    port: 3001,
+    port: 3002,
     docsDir: join(isDev ? this.options.srcDir : this.options.buildDir, 'docs'),
-    repo: 'nuxt/docs',
+    repo: 'apiboot-group/docs',
     watch: isDev,
     ...this.options.docs,
     ...moduleOptions

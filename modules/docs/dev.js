@@ -3,9 +3,9 @@ const DocsServer = require('./server')
 
 async function main() {
 	const docsServer = new DocsServer({
-    port: 3001,
+    port: 3003,
     docsDir: join(__dirname, '..', '..', 'docs'),
-    repo: 'nuxt/docs',
+    repo: 'apiboot-group/docs',
     watch: true
   })
 	await docsServer.cloneRepo()
