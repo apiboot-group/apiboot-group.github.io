@@ -1,0 +1,37 @@
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+target/
+logs/
+out/
+*.local
+*.local.*
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.metadata
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### MacOS ###
+.DS_Store
+
+### Nuxt ###
+node_modules
+.nuxt
