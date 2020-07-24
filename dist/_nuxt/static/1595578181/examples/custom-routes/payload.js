@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/examples/custom-routes", {data:[{},{path:"\u002Fzh\u002Fexamples\u002Fcustom-routes",section:"examples",page:{attrs:{title:"自定义路由",description:"Nuxt.js 的路由自定义示例",github:"custom-routes",livedemo:"https:\u002F\u002Fcustom-routes.nuxtjs.org",documentation:"\u002Fguide\u002Frouting#动态路由"},body:""},contributors:[]}],fetch:[],mutations:[]});

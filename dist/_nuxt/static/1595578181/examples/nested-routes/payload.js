@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/examples/nested-routes", {data:[{},{path:"\u002Fzh\u002Fexamples\u002Fnested-routes",section:"examples",page:{attrs:{title:"嵌套路由",description:"Nuxt.js 的嵌套路由示例",github:"nested-routes",livedemo:"https:\u002F\u002Fnested-routes.nuxtjs.org",documentation:"\u002Fguide\u002Frouting#嵌套路由"},body:""},contributors:[]}],fetch:[],mutations:[]});

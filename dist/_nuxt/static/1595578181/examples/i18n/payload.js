@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/examples/i18n", {data:[{},{path:"\u002Fzh\u002Fexamples\u002Fi18n",section:"examples",page:{attrs:{title:"国际化（i18n）",description:"Nuxt.js 应用国际化（i18n）的示例",github:"i18n",livedemo:"https:\u002F\u002Fi18n.nuxtjs.org",documentation:"\u002Fguide\u002Frouting#中间件"},body:""},contributors:[]}],fetch:[],mutations:[]});

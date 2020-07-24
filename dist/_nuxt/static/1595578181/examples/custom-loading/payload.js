@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/examples/custom-loading", {data:[{},{path:"\u002Fzh\u002Fexamples\u002Fcustom-loading",section:"examples",page:{attrs:{title:"自定义组件加载",description:"Nuxt.js 的自定义加载进度条组件示例",github:"custom-loading",livedemo:"https:\u002F\u002Fcustom-loading.nuxtjs.org",documentation:"\u002Fapi\u002Fconfiguration-loading"},body:""},contributors:[]}],fetch:[],mutations:[]});

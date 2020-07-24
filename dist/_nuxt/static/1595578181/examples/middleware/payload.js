@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/examples/middleware", {data:[{},{path:"\u002Fzh\u002Fexamples\u002Fmiddleware",section:"examples",page:{attrs:{title:"中间件",description:"Nuxt.js 中间件使用示例",github:"middleware",livedemo:"https:\u002F\u002Fmiddleware.nuxtjs.org",documentation:"\u002Fguide\u002Frouting#中间件"},body:""},contributors:[]}],fetch:[],mutations:[]});

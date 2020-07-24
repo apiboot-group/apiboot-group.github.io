@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/examples/plugins", {data:[{},{path:"\u002Fzh\u002Fexamples\u002Fplugins",section:"examples",page:{attrs:{title:"插件",description:"在 Nuxt.js 中使用第三方模块或插件",github:"plugins-vendor",livedemo:"https:\u002F\u002Fplugins-vendor.nuxtjs.org",documentation:"\u002Fguide\u002Fplugins"},body:""},contributors:[]}],fetch:[],mutations:[]});

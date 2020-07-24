@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/examples/async-data", {data:[{},{path:"\u002Fzh\u002Fexamples\u002Fasync-data",section:"examples",page:{attrs:{title:"异步数据",description:"Nuxt.js 的异步数据示例",github:"async-data",documentation:"\u002Fguide\u002Fasync-data"},body:""},contributors:[]}],fetch:[],mutations:[]});
